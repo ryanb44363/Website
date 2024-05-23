@@ -4,4 +4,5 @@ document.querySelector('form').addEventListener('submit', function(event) {
         alert('Password is required');
         event.preventDefault();
     }
-});
+});    
+   
